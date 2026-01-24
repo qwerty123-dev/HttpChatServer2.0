@@ -81,7 +81,7 @@ target_link_libraries(${PROJECT_NAME}
         ${PQXX_LIBRARIES}
         opentelemetry-cpp::api
         opentelemetry-cpp::sdk
-        opentelemetry-cpp::exporter_otlp_http
+        #opentelemetry-cpp::exporter_otlp_http
 )
 
 # -----------------------------
