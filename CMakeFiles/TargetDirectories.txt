@@ -1,0 +1,7 @@
+/home/qwerty/Documents/HttpChatServer2.0/CMakeFiles/project.dir
+/home/qwerty/Documents/HttpChatServer2.0/CMakeFiles/edit_cache.dir
+/home/qwerty/Documents/HttpChatServer2.0/CMakeFiles/rebuild_cache.dir
+/home/qwerty/Documents/HttpChatServer2.0/CMakeFiles/list_install_components.dir
+/home/qwerty/Documents/HttpChatServer2.0/CMakeFiles/install.dir
+/home/qwerty/Documents/HttpChatServer2.0/CMakeFiles/install/local.dir
+/home/qwerty/Documents/HttpChatServer2.0/CMakeFiles/install/strip.dir

@@ -90,7 +90,7 @@ target_link_libraries(${PROJECT_NAME}
 target_compile_definitions(${PROJECT_NAME}
     PRIVATE
         BOOST_ASIO_NO_DEPRECATED
-        BOOST_BEAST_USE_STD_STRING_VIEW
+	BOOST_NO_CXX17_HDR_STRING_VIEW=0
 )
 
 # -----------------------------
